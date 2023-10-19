@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Scaffolds added for blogs , articles , todos.
+   Added the administrator gem here for the authentication.
